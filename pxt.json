@@ -1,5 +1,5 @@
 {
-    "name": "0.4 game",
+    "name": "game",
     "description": "",
     "dependencies": {
         "core": "*",
